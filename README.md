@@ -1,16 +1,55 @@
-# React + Vite
+# 🚀 QuickHire - Modern Job Board Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**QuickHire** একটি আধুনিক এবং রেসপন্সিভ জব বোর্ড ল্যান্ডিং পেজ, যা React এবং Tailwind CSS ব্যবহার করে তৈরি করা হয়েছে। এতে জব ক্যাটাগরি, লেটেস্ট জবস এবং এম্পলয়ারদের জন্য কল-টু-অ্যাকশন (CTA) সেকশন রয়েছে।
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- **📱 Fully Responsive:** মোবাইল, ট্যাবলেট এবং ডেস্কটপ সব ডিভাইসে পারফেক্টলি অপ্টিমাইজড।
+- **🎨 Modern UI/UX:** ক্লিন ডিজাইন এবং সুন্দর হোভার ইফেক্ট।
+- **🔍 Job Categories:** ক্যাটাগরি অনুযায়ী জব খোঁজার সুবিধা।
+- **💼 Latest Jobs Section:** লেটেস্ট জব ওপেনিংগুলোর একটি সুন্দর গ্রিড ভিউ।
+- **🚀 Post Job CTA:** এম্পলয়ারদের জন্য জব পোস্ট করার আকর্ষণীয় সেকশন।
+- **📧 Newsletter Support:** ফুটার সেকশনে ইমেইল সাবস্ক্রিপশন সুবিধা।
+- **🛠️ Lucide Icons:** প্রফেশনাল এবং শার্প আইকন ব্যবহার করা হয়েছে।
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework:** [React.js](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Build Tool:** Vite
+
+---
+
+## 🚀 Getting Started
+
+প্রজেক্টটি আপনার লোকাল মেশিনে রান করতে নিচের ধাপগুলো অনুসরণ করুন:
+
+1. **রিপোজিটরি ক্লোন করুন:**
+```bash
+git clone [https://github.com/your-username/quickhire-landing-page.git](https://github.com/your-username/quickhire-landing-page.git)
+```
+## প্রজেক্ট ফোল্ডারে যান:
+
+```bash
+cd quickhire-landing-page
+```
+
+## ডিপেন্ডেন্সি ইনস্টল করুন:
+
+```bash
+npm install
+```
+## ডেভেলপমেন্ট সার্ভার রান করুন:
+
+```bash
+npm run dev
+```
+##এখন ব্রাউজারে http://localhost:5173 ওপেন করে প্রজেক্টটি দেখুন
+
+# 👨‍💻 Developed by
+Shamim Islam (Full Stack Developer)
